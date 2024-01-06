@@ -56,4 +56,4 @@ while (exibirMenu)
     Console.ReadLine();
 }
 
-Console.WriteLine("O programa se encerrou");
+Console.WriteLine("Programa encerrado. Obrigado por usar o sistema de estacionamento.");
